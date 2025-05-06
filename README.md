@@ -41,5 +41,4 @@ python app.py
 
 ## 📽️ Demo
 
-Watch the demo here:
-https://github.com/user-attachments/assets/05f92aba-1048-4d61-b1df-c2c288340123
+Watch the full demo here: [▶️ Demo Video](https://github.com/user-attachments/assets/05f92aba-1048-4d61-b1df-c2c288340123)
